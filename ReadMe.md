@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shreyash Patil ! 👋<br>Welcome to my GitHub corner. <br>I'm 3rd year Computer Engineering student at COEP Technological University<br>I write code that works... eventually.<br>My repositories are like my plants—some thrive, most are barely alive. ( Its not my line I read it somewhere )<br>   
+Hi, I’m Shreyash Patil ! 👋<br>Welcome to my GitHub corner. <br>I'm 3rd year Computer Engineering student at COEP Technological University<br>  
 
 
 ## 🌐 Socials:
